@@ -55,6 +55,6 @@ p {
 	text-decoration: none;
 }
 
-#main a:hover {
-	text-decoration: underline;
+#press img:hover {
+	border: 5px rgb(111,127,122) solid;
 }
