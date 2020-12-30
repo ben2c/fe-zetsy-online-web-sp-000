@@ -39,3 +39,9 @@ h2 {
 	color: #83887e;
 	font-size: 2em;
 }
+
+p {
+	color: #555;
+	font-size: 1em;
+	margin: 0 0 20px 0;
+}
