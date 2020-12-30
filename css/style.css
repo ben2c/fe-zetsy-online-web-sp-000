@@ -49,3 +49,8 @@ p {
 .small {
 	font-size: 0.6em;
 }
+
+header a {
+	color: rgb(152,173,166);
+	text-decoration: none;
+}
